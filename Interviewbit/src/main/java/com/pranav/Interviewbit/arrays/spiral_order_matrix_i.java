@@ -1,4 +1,4 @@
-package com.pranav.arrays;
+package com.pranav.Interviewbit.arrays;
 
 import java.util.ArrayList;
 import java.util.List;

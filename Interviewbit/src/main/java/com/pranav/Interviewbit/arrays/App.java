@@ -1,4 +1,4 @@
-package com.pranav.Interviewbit;
+package com.pranav.Interviewbit.arrays;
 
 /**
  * Hello world!
